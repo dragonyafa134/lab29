@@ -1,4 +1,4 @@
-namespace TaskAp1.Models;
+namespace TaskApi.Models;
 
 public class UpdateTaskDto {
     public string Title {get; set; } = string.Empty;

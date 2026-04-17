@@ -1,6 +1,6 @@
 using System.Data;
 
-namespace TaskAp1.Models;
+namespace TaskApi.Models;
 
 public class TaskItem {
     public int Id {get; set; }
